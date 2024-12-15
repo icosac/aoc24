@@ -1,3 +1,4 @@
+*.txt
 venv/
 
 # Byte-compiled / optimized / DLL files
